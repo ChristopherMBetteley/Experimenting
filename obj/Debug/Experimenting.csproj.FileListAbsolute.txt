@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Experimenting\Experimenting\bin\Debug\Experimenting.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Experimenting\Experimenting\bin\Debug\Experimenting.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Experimenting\Experimenting\bin\Debug\Experimenting.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Experimenting\Experimenting\obj\Debug\Experimenting.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Experimenting\Experimenting\obj\Debug\Experimenting.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Experimenting\Experimenting\obj\Debug\Experimenting.pdb
